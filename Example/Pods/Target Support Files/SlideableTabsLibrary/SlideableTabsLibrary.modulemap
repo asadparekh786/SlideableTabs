@@ -1,0 +1,6 @@
+framework module SlideableTabsLibrary {
+  umbrella header "SlideableTabsLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

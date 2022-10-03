@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SlideableTabsLibrary_Tests' do
+  pod 'SlideableTabsLibrary', :path => '../SlideableTabsLibrary'
+  
+  
+end
